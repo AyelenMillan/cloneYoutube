@@ -203,7 +203,7 @@ function Home({ darkMode, setDarkMode }) {
             variant='outlined'
             color='secondary'
           >
-            Fazer Login
+            Entrar
           </Button>
         </Toolbar>
       </AppBar>
